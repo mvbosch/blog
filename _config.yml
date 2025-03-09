@@ -13,7 +13,7 @@ social:
     - https://github.com/mvbosch
 avatar: https://vonbosch.co.za/static/portrait_small.jpg
 paginate: 10
-baseurl: /blog
+baseurl: "/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
