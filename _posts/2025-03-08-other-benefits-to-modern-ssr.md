@@ -21,4 +21,4 @@ At this point in time, SvelteKit is in a stable v1.x.x release of some sort. A s
 
 TL;DR - Modern JS frontends are a great way to templatise anything from web pages to HTML emails or anything else you might show to an end-user. This is much more accessible to teams than traditional backend templating, since nowadays you can't throw a stone without hitting at least 3 React developers. If you have a separate frontend, don't unnecessarily render HTML on your backend.
 
-<a id="1">[1]</a>  - You could argue that an event ticket is not a UI, but this platform's in particular contains a scannable QR code. Checkmate.
+<span id="1">[1]</span> - You could argue that an event ticket is not a UI, but this platform's in particular contains a scannable QR code. Checkmate.
