@@ -1,5 +1,5 @@
 ---
-title: "Simplify checkout, process more transactions"
+title: "Simplify checkout, increase conversion rate"
 date: 2025-03-30
 author: "Michael Bosch"
 ---
